@@ -1,4 +1,4 @@
-# Personal-Projects
+# Github automated files pushing.
 This is the project to push the files from local file system to an existing repository automatically using selenium and python.
 
 Here are the steps to configure:
